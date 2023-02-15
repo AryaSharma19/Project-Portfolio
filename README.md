@@ -1,2 +1,2 @@
 # Project-Portfolio
-A selection of various programs I have written over the last two years
+A selection of programs I have written over the last two years
